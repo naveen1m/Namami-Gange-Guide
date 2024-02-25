@@ -16,3 +16,4 @@ The chatbot is integrated with a navigation system that helps tourists explore t
 Crowd Counting Model
 Chacha Chaudhary uses a machine learning model to estimate the number of people present in a particular area. This feature helps authorities manage crowds and ensure the safety of visitors.
 
+![image](https://github.com/stupiddint/Namami-Gange-Guide/assets/94122792/f40acfd0-c260-46e3-a516-d7b161555b99)
