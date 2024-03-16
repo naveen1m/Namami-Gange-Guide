@@ -1,7 +1,6 @@
 # Team-36
 
 
-
 Chacha Chaudhary - An AI, ML, and Chatbot-Powered Interactive Robot Mascot for Namami Gange
 
 Features
